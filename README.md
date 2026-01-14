@@ -13,7 +13,6 @@ This is a GUI-enhanced version of the original Reclist Generator for UTAU CVVC, 
 
 ## ✨ Features
 
-- **Cross-platform Support**: Available for Windows, macOS, and Linux
 - **Graphical User Interface**: Easy-to-use GUI for configuring all settings
 - **Customizable Output**: Configure various parameters for your reclist
 - **Multi-language Support**: Supports both English and Chinese
@@ -29,21 +28,6 @@ This is a GUI-enhanced version of the original Reclist Generator for UTAU CVVC, 
 2. Run the executable file
 3. Configure your settings in the GUI
 4. Click "Start Generation" to generate your reclist
-
-### For macOS Users
-
-1. Download the latest `reclist-gen.app` from the releases page
-2. Open the application (you may need to allow unidentified developer apps in System Preferences)
-3. Configure your settings in the GUI
-4. Click "Start Generation" to generate your reclist
-
-### For Linux Users
-
-1. Download the latest `reclist-gen` from the releases page
-2. Make the file executable: `chmod +x reclist-gen`
-3. Run the executable: `./reclist-gen`
-4. Configure your settings in the GUI
-5. Click "Start Generation" to generate your reclist
 
 ## 🛠️ Installation from Source
 
