@@ -93,6 +93,7 @@ reclist-gen-cvvc/
 ├── reclist-gen-cvvc.ini  # Configuration file
 ├── reclist-gen-cvvc.py   # Core generation script
 └── reclist-gen-gui.py    # GUI application
+```
 
 ## 🤝 Contributing
 
