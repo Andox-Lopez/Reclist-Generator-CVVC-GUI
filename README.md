@@ -8,7 +8,7 @@ This is a GUI-enhanced version of the original Reclist Generator for UTAU CVVC, 
 
 ## 👨‍💻 Original Author
 
-- **sdercolin**
+- [**sdercolin**](https://github.com/sdercolin)
 - **GitHub Repository**: [https://github.com/sdercolin/reclist-gen-cvvc/](https://github.com/sdercolin/reclist-gen-cvvc/)
 
 ## ✨ Features
